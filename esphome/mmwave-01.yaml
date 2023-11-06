@@ -1,6 +1,6 @@
 substitutions:
   node_name: mmwave_01
-  device_verbose_name: "mmWave 01"
+  device_verbose_name: "Kitchen presence"
   board: nodemcuv2
   platform: ESP8266
   log_level: DEBUG
